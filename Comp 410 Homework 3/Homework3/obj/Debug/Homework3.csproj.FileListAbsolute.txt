@@ -1,0 +1,9 @@
+Z:\Jeel On My Mac\src\Homework3\bin\Debug\Homework3.exe.config
+Z:\Jeel On My Mac\src\Homework3\bin\Debug\Homework3.exe
+Z:\Jeel On My Mac\src\Homework3\bin\Debug\Homework3.pdb
+Z:\Jeel On My Mac\src\Homework3\obj\Debug\Homework3.csprojResolveAssemblyReference.cache
+Z:\Jeel On My Mac\src\Homework3\obj\Debug\Homework3.exe
+Z:\Jeel On My Mac\src\Homework3\obj\Debug\Homework3.pdb
+C:\Users\Hamdan Alshammari\Desktop\hmw3\Homework3\bin\Debug\Homework3.exe.config
+C:\Users\Hamdan Alshammari\Desktop\hmw3\Homework3\obj\Debug\Homework3.exe
+C:\Users\Hamdan Alshammari\Desktop\hmw3\Homework3\obj\Debug\Homework3.pdb
